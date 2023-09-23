@@ -1,0 +1,27 @@
+[
+    {
+        "name":"Minh Nguyen",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Dinh Doan Nam",
+        "city":"Nam Dinh",
+        "state":"ND"
+    },
+    {
+        "name":"Tran Dung",
+        "city":"Ha Nam",
+        "state":"HN"
+    },
+    {
+        "name":"Thanh Pham",
+        "city":"Ha Noi",
+        "state":"HN"
+    },
+    {
+        "name":"Thu Hang",
+        "city":"Bac Ninh",
+        "state":"BN"
+    }
+]
